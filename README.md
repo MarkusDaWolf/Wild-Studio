@@ -1,2 +1,5 @@
-# Wild-Studio
-Creation of 2D Game Engine: Wild Studio
+# Wild Studio
+
+Welcome to Wild Studio!
+
+# WORK IN PROGRESS
